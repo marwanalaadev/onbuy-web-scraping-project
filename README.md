@@ -14,7 +14,7 @@ This project is a web scraping tool built with Python for extracting product dat
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/web-scraping-project.git
+    git clone https://github.com/marwanalaadev/web-scraping-project.git
     ```
 
 2. Install dependencies:
